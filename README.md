@@ -36,3 +36,4 @@ I'm still working on this app and still have several features to incorporate
 -Get the local weather displayed on load of the web app
 -Have the "Weather in Lansing" banner change dynamically with the city queried
 
+the link to the webpage can be found here https://jgarnaat.github.io/Weather-Possum/
